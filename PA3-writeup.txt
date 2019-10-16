@@ -1,0 +1,10 @@
+#Cliff St.juste
+#CIS 2017
+#Programming Assignment 3
+#Writeup
+
+
+ This programming assignment is really based on how to use loops.
+ I've decided to use the oranges I've created from the previous assignment to
+ show my loops. I've also use the interpolation command in this assignment.
+ I made my oranges change sizes as they went along also. 
